@@ -1,0 +1,11 @@
+name: RandomTP
+version: 1.0
+main: io.github.hybrezz54.RandomTP.RandomTP
+description: Teleports player to random locations!
+commands:
+  rand:
+    usage: /rand [player] [x] [y] [z]
+    description: Teleports players to a random location.
+  randheight:
+    usage: /randheight [player] [y]
+    description: Teleports players to random height at their current location.
